@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: cursive;
+}
+
+header{
+    background-color: #03a678;
+	height: 50px;
+	color: #FFF;
+	text-align: left;
+}
+
+#logo{
+	padding-top: 12px;
+	padding-left: 15px;
+	text-align: left;
+	float: left;
+    font-size: 20px;
+}

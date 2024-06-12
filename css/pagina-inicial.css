@@ -1,0 +1,95 @@
+div#corpo figure img {
+	width: 100%;
+}
+
+body{
+    font-family: cursive;
+}
+
+div#corpo .tipos {
+	float: left;
+	text-align: center;
+	margin-bottom: 30px;
+	margin-top: 30px;
+	padding: 0.5em 4em;
+}
+
+h1{
+    text-align: center;
+    padding: 20px;
+}
+
+table {
+    margin: 0px auto;
+    margin-bottom: 25px;
+    text-align: center;
+    background-color: #55efc4;
+}
+
+td{
+    width: 850px;
+    height: 100px;
+    text-align: left;
+}
+
+h2{
+    text-align: left;
+    margin-bottom: 30px;
+    margin-left: 8px;
+}
+
+p{
+    text-align: left;
+    margin-bottom: 5;
+}
+
+.cor{
+    background-color: #00b894;
+}
+
+.nome{
+    width: 100%;
+}
+
+form#form_pesquisa > fieldset{
+    margin: 20px 45px;
+    padding: 15px;
+}
+
+form#form_pesquisa > fieldset > legend, label{
+    font-weight: bold;
+    font-size: large;
+}
+
+form#form_pesquisa > fieldset > input{
+    height: 30px;
+    border: 1px solid #131313;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+fieldset > select {
+    border-radius: 8px;
+    margin-right:5px ;
+    padding: 8px;
+    width: 100%;
+  
+}
+
+fieldset > input::placeholder{
+    padding: 5px;
+}
+
+button{
+    background-color: #39694d;
+    height: 30px;
+    border: 1px solid #131313;
+    font-weight: bold;
+    width: 6%;
+    margin-left: 44px;
+    margin-bottom: 15px;
+}
+
+button:hover{
+    cursor: pointer;
+}
